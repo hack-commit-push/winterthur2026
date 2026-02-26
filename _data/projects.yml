@@ -33,3 +33,23 @@
         - EN
         - ES
   contributions:
+  - name: MapStruct (Java)
+  url: https://mapstruct.org/
+  description: MapStruct is a Java annotation processor designed to generate type-safe and high-performance mappers for Java bean classes.
+  leads:
+    - name: Filip Hrisafov
+      profile_url: https://www.linkedin.com/in/filip-hrisafov/
+      spoken_languages:
+        - EN
+        - ES
+  contributions:
+  - name: iqhfsm (C++)
+  url: https://gitlab.com/iqilio/iqhfsm
+  description: Hierarchical finite state machine for C++.
+  leads:
+    - name: Urs Fässler
+      profile_url: https://iqilio.ch/team/urs-fassler/
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
