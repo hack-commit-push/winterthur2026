@@ -63,3 +63,13 @@
         - EN
         - IT
   contributions:
+- name: Lux (Rust)
+  url: https://github.com/lumen-oss/lux/
+  description: A luxurious and fast package manager for Lua
+  leads:
+    - name: Marc Jakobi
+      profile_url: https://github.com/mrcjkb
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
